@@ -1,0 +1,17 @@
+[
+  {
+    "pokemonOwnerName": "Divya",
+    "pokemons": [
+      {
+        "id": "db1da8fd-cb3f-44a3-aba9-06c2cd5d71c8",
+        "pokemonOwnerName": "Divya",
+        "direction": "left",
+        "initialPositionX": "5",
+        "initialPositionY": "3",
+        "pokemonName": "charmeleon",
+        "pokemonAbility": "blaze",
+        "speed": "4"
+      }
+    ]
+  }
+]
